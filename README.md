@@ -2,7 +2,6 @@
 
 - Passionate about overcoming challenges and dedicated to leveraging my skills to help startups become industry leaders.💯
 - Committed to **enhancing community engagement and leadership** through programming.👨‍👩‍👧‍👦
-- I value **friendship, time, and trust** in all professional relationships.👯‍♂️
 
 ### 🏆 GitHub Profile Trophy
 
@@ -92,12 +91,12 @@
 </tr>
 <tr>
 <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-    <br>Rust
+<img src="https://techstack-generator.vercel.app/python-icon.svg" height="50" alt="Python" />
+    <br>Python
 </td>
 <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" height="50" alt="Hardhat" />
-    <br>Hardhat
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="Selenium" />
+    <br>Selenium
 </td>
 <!-- Mobile Development -->
 <td align="center" width="123.4">
@@ -121,70 +120,7 @@
     <br>Kotlin
 </td>
 </tr>
-<!-- Bot Development & Automation -->
-<tr>
-<td align="center" width="123.4">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" height="50" alt="Python" />
-    <br>Python
-</td>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="Selenium" />
-    <br>Selenium
-</td>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="50" alt="Discord.js" />
-    <br>Discord.js
-</td>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-    <br>LinkedIn
-</td>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-    <br>Flask
-</td>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-    <br>TensorFlow
-</td>
-<!-- Databases & Cloud -->
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-    <br>PostgreSQL
-</td>
-</tr>
-<tr>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-    <br>MongoDB
-</td>
-<td align="center" width="123.4">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40" alt="mysql logo"  />
-    <br>MySQL
-</td>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-    <br>SQLite
-</td>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
-    <br>Firebase
-</td>
-<td align="center" width="123.4">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" height="50" alt="Docker" />
-    <br>Docker
-</td>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes logo" />
-<img width="12" /> -->
-<td align="center" width="123.4">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" height="50" alt="AWS" />
-    <br>AWS
-</td>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" />
-    <br>Redis
-</td>
-</tr>
+
 <!-- DevOps & CI/CD -->
 <tr>
 <td align="center" width="123.4">
