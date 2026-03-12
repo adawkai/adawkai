@@ -17,17 +17,6 @@
 <!-- <div align="center"> -->
 <!-- Web Development -->
 <table align="center">
-  <tr>
-    <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-<br>HTML5
-
-</td>
-    <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-    <br>CSS3
-
-</td>
     <td align="center" width="123.4">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" height="50" alt="JavaScript" />
     <br>JavaScript
@@ -49,13 +38,6 @@
 
 </td>
     <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter" />
-    <br>Jupyter
-
-</td>
-</tr>
-<tr>
-    <td align="center" width="123.4">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
     <br>Node.js
 
@@ -69,40 +51,22 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
     <br>Express.js
 </td>
-    <td align="center" width="123.4">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height="50" alt="kaggle" />
-    <br>Kaggle
-</td>
-    <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="50" alt=""matlab/>
-    <br>Matlab
-</td>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="50" alt="Svelte" />
-<img width="10" /> -->
-    <td align="center" width="123.4">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" height="40" alt="django logo"  />
-    <br>Django
-</td>
-<!-- Blockchain Development -->
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplot" />
-    <br>Matplot
-</td>
 </tr>
 <tr>
 <td align="center" width="123.4">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" height="50" alt="Python" />
     <br>Python
 </td>
+    
+    <td align="center" width="123.4">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" height="40" alt="django logo"  />
+    <br>Django
+</td>
 <td align="center" width="123.4">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="Selenium" />
     <br>Selenium
 </td>
 <!-- Mobile Development -->
-<td align="center" width="123.4">
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-<br>Webpack
-</td>
 <td align="center" width="123.4">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="Android" />
     <br>Android
@@ -141,14 +105,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="GitHub Actions" />
     <br>GitHub Actions
 </td>
+<td align="center" width="123.4">
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+<br>Webpack
+</td>
 <!-- Remote Work & Leadership -->
 <td align="center" width="123.4">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="Slack" />
     <br>Slack
-</td>
-<td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="50" alt="Trello" />
-    <br>Trello
 </td>
 <td align="center" width="123.4">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="Jira" />
